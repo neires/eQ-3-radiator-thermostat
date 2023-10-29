@@ -99,7 +99,7 @@ set mac                         ""
 set hci                         ""
 set cmd                         ""
 
-set timeout                     10
+set timeout                     20
 
 set DELAY                       100
 
